@@ -132,6 +132,10 @@ input,textarea{
   clear:right;
 }
     
+..fa:not(.fa-bars) {
+   font-size:10px;
+}
+    
 }
 
 @media all and (max-width: 1000px) {
