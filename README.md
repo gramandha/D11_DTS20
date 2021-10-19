@@ -2,6 +2,8 @@ Digital Talent Scholarship
 ==============================================================
 Online Academy (OA) | HTML, CSS, Javascript -Progate
 
+Hasil:https://anagdesa.github.io/D11_DTS20/
+
 # DTSproject Kelompok D11
 * [Gramandha Wega Intyanto]
 * [Hamriyanto] -> ketua
